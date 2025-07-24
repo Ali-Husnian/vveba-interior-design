@@ -7,7 +7,6 @@ import AboutUs from './components/about-us';
 import Team from './components/team';
 import ContactUs from './components/contact-us';
 import Footer from './components/footer';
-import ClickToTop from './components/click-to-top';
 import Spinner from './components/spinner';
 
 export default function Home() {
@@ -54,7 +53,6 @@ export default function Home() {
     <Team />
     <ContactUs />
     <Footer />
-    <ClickToTop />
    </div>
   </>
  );

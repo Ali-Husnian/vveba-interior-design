@@ -34,6 +34,9 @@ export default function Footer() {
      ))}
     </div>
    </div>
+   <a href="#" className="scroll-btn">
+    <i className="fas fa-arrow-up"></i>
+   </a>
   </footer>
  );
 }
